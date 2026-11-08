@@ -1,0 +1,11 @@
+{
+  "requirements": ["A rooted device with Magisk, KernelSU or APatch"],
+  "install": [
+    "Download the ZIP from the latest release",
+    "Open your root manager and go to the Modules section",
+    "Install the ZIP from storage and reboot",
+    "Run su -c ucanlog in a terminal, or press Action if your manager shows the button"
+  ],
+  "image": "repo:assets/banner.png",
+  "featured": true
+}

@@ -1,0 +1,6 @@
+id=ucanlog
+name=UcanLog
+version=v1.0.0
+versionCode=1
+author=UcanPrjk01
+description=Collect device, root and module diagnostics with one command or the Action button, ready to attach to a bug report.
